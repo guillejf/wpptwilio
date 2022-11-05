@@ -1,0 +1,1 @@
+DESPLEGAR A HEROKU Y CONFIGURAR EL SANDBOX CON LA URL (hook) A APP DE HEROKU (solo la primer caja de texto)
